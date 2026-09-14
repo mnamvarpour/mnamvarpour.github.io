@@ -144,6 +144,36 @@ p {
     border-radius: 10%;
 }
 
+#persi-row {
+    margin-bottom: 50px;
+}
+
+.persi-content {
+    display: flex;
+    align-items: center;
+    gap: 25px;
+}
+
+.persi-photo {
+    width: 220px;
+    height: 220px;
+    object-fit: cover;
+    border-radius: 10%;
+    flex-shrink: 0;
+}
+
+@media only screen and (max-width: 575px) {
+    .persi-content {
+        display: block;
+    }
+
+    .persi-photo {
+        width: 100%;
+        height: auto;
+        margin-bottom: 10px;
+    }
+}
+
 @media only screen and (min-width: 768px) { 
     .avatar {width: 100%;}
   }
