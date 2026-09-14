@@ -145,7 +145,7 @@ p {
 }
 
 #persi-row {
-    margin-bottom: 50px;
+    margin-bottom: 100px;
 }
 
 .persi-content {
@@ -155,10 +155,10 @@ p {
 }
 
 .persi-photo {
-    width: 220px;
-    height: 220px;
+    width: 180px;
+    height: 180px;
     object-fit: cover;
-    border-radius: 10%;
+    clip-path: polygon(50% 0%, 74% 10%, 92% 30%, 100% 50%, 90% 74%, 70% 92%, 50% 100%, 26% 90%, 8% 72%, 0% 50%, 10% 26%, 30% 8%);
     flex-shrink: 0;
 }
 
@@ -168,9 +168,10 @@ p {
     }
 
     .persi-photo {
-        width: 100%;
-        height: auto;
-        margin-bottom: 10px;
+        width: 180px;
+        height: 180px;
+        display: block;
+        margin: 0 auto 10px;
     }
 }
 
