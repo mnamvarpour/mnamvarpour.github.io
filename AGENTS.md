@@ -5,7 +5,11 @@ This repository contains Matt's personal website.
 ## Git workflow
 
 - The production branch is `master`.
-- Never push directly to `master`.
+- By default, do not push directly to `master`. Use a task branch and pull request.
+- If the user explicitly asks to push, publish, or deploy a change directly to `master`, you may commit and push directly to `master`.
+- Before pushing directly to `master`, inspect the final diff and run all relevant available validation.
+- If validation fails, do not push to `master` unless the user explicitly instructs otherwise.
+- Never force push to `master`.
 - Before starting work, make sure the local `master` branch is up to date with `origin/master`.
 - Create a new branch for each task.
 - Name agent-created branches `hermes/<short-task-name>`.
