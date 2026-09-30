@@ -54,6 +54,10 @@ Activity-based instruction grounded in real-world scenarios. Worksheet-driven le
 - **2024**  Namvarpour, M. and Razi, A. “Uncovering Contradictions in Human-AI Interactions: Lessons Learned from User Reviews of Replika.” *CSCW Companion '24*. [DOI](https://doi.org/10.1145/3678884.3681909)
 - **2024**  Namvarpour, M. and Razi, A. “Apprentices to Research Assistants: Advancing Research with Large Language Models.” *CHI 2024 Workshop*. [arXiv](https://arxiv.org/abs/2404.06404)
 
+### Preprints and Manuscripts Under Review
+
+- **2026**  Namvarpour, M., Chang, T., and Razi, A. “A Responsive Present, a Shared Past, a Social Other: Teens’ Overreliance on Companion AI Chatbots.” Manuscript under review for CHI 2027. [arXiv:2609.14843](https://arxiv.org/abs/2609.14843)
+
 ### Journal Articles
 
 - **2024**  Nasersharif, B. and Namvarpour, M. “Exploring the Potential of Wav2vec 2.0 for Speech Emotion Recognition.” *The Journal of Supercomputing*, 80(16). [DOI](https://doi.org/10.1007/s11227-024-06158-x)
