@@ -2,7 +2,7 @@
 
 **PhD Candidate · Human-AI Researcher · Instructor**
 
-✉️ [mnamvarpour@gmail.com](mailto:mnamvarpour@gmail.com)  ·  📞 [215-252-0531](tel:2152520531)  ·  🔗 [mnamvarpour.com](https://mnamvarpour.com)  ·  🎓 [Google Scholar](https://scholar.google.com/citations?user=6pKoEKcAAAAJ&hl=en)  ·  💻 [GitHub](https://github.com/HalflingWizard)
+✉️ [mnamvarpour@gmail.com](mailto:mnamvarpour@gmail.com)  ·  📞 [215-252-0531](tel:2152520531)  ·  🔗 [mnamvarpour.com](https://mnamvarpour.com)  ·  🎓 [Google Scholar](https://scholar.google.com/citations?user=yXqJzZAAAAAJ)  ·  💻 [GitHub](https://github.com/mnamvarpour)
 
 Philadelphia, PA
 
