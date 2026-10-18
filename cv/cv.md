@@ -12,7 +12,7 @@ Information Science PhD candidate at Drexel University studying Human-AI interac
 
 ## Research Interests
 
-Conversational User Interface Design · Human-AI Interaction · Machine Learning · Natural Language Processing
+Conversational User Interface (CUI) Design · Human-AI Interaction · AI Safety · Natural Language Processing
 
 ## Teaching Experience
 
