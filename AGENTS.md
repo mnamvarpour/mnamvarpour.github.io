@@ -30,7 +30,7 @@ This repository contains Matt's personal website.
 - Do not introduce new dependencies unless they are needed for the requested change.
 - Keep `sitemap.xml` synchronized with the site's public canonical pages: add entries when public pages are published and remove entries when pages are removed or made private. Keep the `Sitemap: https://mnamvarpour.com/sitemap.xml` directive in `robots.txt` in place, and validate that the sitemap remains well-formed XML.
 - Keep the agent-readable homepage `index.md` synchronized with substantive public content in `index.html`; update both in the same change and preserve the `<link rel="alternate" type="text/markdown" href="/index.md">` declaration. Link to the authoritative `/cv/cv.md` instead of duplicating CV content.
-- For Markdown content negotiation changes, keep the Cloudflare Worker in `worker/` passing ordinary browser requests through unchanged and serving the maintained `index.md` for homepage requests whose `Accept` header includes `text/markdown`. Run `node --test worker/test.mjs` after changes.
+- Treat `/index.md` as a static, agent-readable mirror of the homepage. This GitHub Pages site does not support `Accept`-based negotiation by itself; do not add a Worker or other runtime solely for Markdown negotiation unless explicitly requested.
 
 ## Safety
 
