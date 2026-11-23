@@ -1,2 +1,4 @@
 User-agent: meta-webindexer
 Allow: /
+
+Sitemap: https://mnamvarpour.com/sitemap.xml
