@@ -28,6 +28,7 @@ This repository contains Matt's personal website.
 - Run the project's relevant build, test, lint, or validation commands before committing when available.
 - If validation fails, investigate the failure instead of silently ignoring it.
 - Do not introduce new dependencies unless they are needed for the requested change.
+- Keep `sitemap.xml` synchronized with the site's public canonical pages: add entries when public pages are published and remove entries when pages are removed or made private. Keep the `Sitemap: https://mnamvarpour.com/sitemap.xml` directive in `robots.txt` in place, and validate that the sitemap remains well-formed XML.
 
 ## Safety
 
