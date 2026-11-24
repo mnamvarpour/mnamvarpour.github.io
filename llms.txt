@@ -1,0 +1,14 @@
+# Mohammad “Matt” Namvarpour
+
+> Information Science PhD candidate at Drexel University, Human-AI researcher, and instructor. Research focuses on human-AI interaction and conversational user interfaces, including how AI can support reflection, connection, safety, and meaningful communication. Teaches undergraduate computing and information science.
+
+## Profile
+
+- [Academic homepage](https://mnamvarpour.com/)
+- [Homepage in Markdown](https://mnamvarpour.com/index.md)
+- [CV in Markdown](https://mnamvarpour.com/cv/cv.md)
+- [CV in PDF](https://mnamvarpour.com/cv/CV.pdf)
+- [Selected publications and complete publication record](https://scholar.google.com/citations?user=yXqJzZAAAAAJ)
+- [LinkedIn](https://www.linkedin.com/in/matt-namvarpour/)
+- [GitHub](https://github.com/mnamvarpour)
+- [YouTube](https://www.youtube.com/c/HalflingWizard)
